@@ -1,0 +1,14 @@
+# General
+.DS_Store
+
+# Node.js Backend
+backend-node/node_modules/
+backend-node/.env
+
+# Python AI Service
+ai-service/venv/
+ai-service/__pycache__/
+ai-service/*.pyc
+ai-service/.env
+ai-service/books/
+

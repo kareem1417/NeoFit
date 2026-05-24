@@ -1,0 +1,5 @@
+{
+    "champion_model": "Decision Tree",
+    "test_accuracy_percentage": 97.9,
+    "evaluation_method": "80/20 Train/Test Split with 5-Fold CV on Train"
+}

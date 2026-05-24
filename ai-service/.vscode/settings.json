@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/home/kareem/Ringside-Project/ai-service/venv/bin/python",
+    "python.analysis.extraPaths": [
+        "/home/kareem/Ringside-Project/ai-service/venv/lib/python3.12/site-packages"
+    ]
+}
